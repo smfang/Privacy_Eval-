@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """
 PGB v1 — evaluation runner.
-
-A CoPE-style policy-conditioned harness (adapted from the structure of
-julietshen/cope-evaluation) pointed at any guard model with an adapter in
-`adapters.py`.
+ .
 
 Supported guards (--guard)
 --------------------------
